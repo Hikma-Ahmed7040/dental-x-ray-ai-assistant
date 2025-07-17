@@ -1,0 +1,10 @@
+torch
+torchvision
+ultralytics
+opencv-python
+streamlit
+matplotlib
+seaborn
+scikit-learn
+grad-cam
+pandas
