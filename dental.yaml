@@ -1,0 +1,17 @@
+# dental.yaml
+
+path: ./Data  # root directory containing train/, val/, test/
+
+train: train/images
+val: val/images
+test: test/images 
+
+
+names:
+  0: Fillings,
+  1: Caries,
+  2: Crowns,
+  3: Implant,
+  4: Cavity,
+  5: Impacted Tooth
+    
